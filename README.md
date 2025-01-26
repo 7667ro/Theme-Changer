@@ -1,8 +1,9 @@
-# React + Vite
+# Theme Changer with React
+### This project demonstrates a dynamic Theme Changer feature in React. Users can toggle between light and dark themes, with styles applied seamlessly across the application. Key highlights include:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Context API for global theme management.
+Dynamic Theme Switching with a toggle button.
+CSS Variables for flexible theming.
+LocalStorage Integration to persist user preferences.
+Responsive Design ensuring compatibility across devices.
+Explore this project to understand how to create a user-friendly theme toggle system with React! 🚀
